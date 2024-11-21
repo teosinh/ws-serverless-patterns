@@ -14,7 +14,7 @@ USERS_MOCK_TABLE_NAME = 'Users'
 UUID_MOCK_VALUE_JOHN = 'f8216640-91a2-11eb-8ab9-57aa454facef'
 UUID_MOCK_VALUE_JANE = '31a9f940-917b-11eb-9054-67837e2c40b0'
 UUID_MOCK_VALUE_NEW_USER = 'new-user-guid'
-
+region_name = 'us-west-2'
 
 def mock_uuid():
     return UUID_MOCK_VALUE_NEW_USER
