@@ -1,0 +1,6 @@
+--2024-11-21 01:39:03--  https://lab369874125.s3.us-west-2.amazonaws.com/template_1.yaml?response-content-disposition=inline
+Resolving lab369874125.s3.us-west-2.amazonaws.com (lab369874125.s3.us-west-2.amazonaws.com)... 3.5.83.102, 52.92.177.26, 3.5.76.17, ...
+Connecting to lab369874125.s3.us-west-2.amazonaws.com (lab369874125.s3.us-west-2.amazonaws.com)|3.5.83.102|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-11-21 01:39:04 ERROR 400: Bad Request.
+
